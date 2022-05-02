@@ -16,10 +16,10 @@ Instaclone Backend.
 
 ### DM
 
-- [x] seeRooms
-- [x] sendMessage(createMessage)
-- [x] seeRoom
-- [x] readMessage
+- [o] seeRooms
+- [o] sendMessage(createMessage)
+- [o] seeRoom
+- [o] readMessage
 
 - rooms {
   [room]{
